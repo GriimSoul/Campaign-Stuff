@@ -1,5 +1,5 @@
 
-Players will have to choose a Basic Race and a Basic Job to assign to their character, and when starting the campaign, they will be set at level 1.
+Players will have to choose a [[Job - Race System#Basic Races|Basic Race]] and a [[Job - Race System#Basic Jobs|Basic Job]] to assign to their character, and when starting the campaign, they will be set at level 1.
 
 Characters have 3 levels:
 

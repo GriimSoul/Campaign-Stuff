@@ -38,7 +38,7 @@ Skill adaptation: Dagger, Sword, Rapier
 | Lv  | Unlocks               | Description                                                                                                                                                                               |
 | --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2   | Double Slash          | Sword Skill: Slash a foe twice in a single attack. <br>1d8 + 250% ATK - 5ft range<br>4 SP Cost                                                                                            |
-| 3   | HP +10% (Ability)     | Ability: increases HP by 10% (calculated using base stats)                                                                                                                                |
+| 3   | HP+10% (Ability)      | Ability: increases HP by 10% (calculated using base stats)                                                                                                                                |
 | 4   | Gale Thrust           | Sword Skill: Thrust a blade into a foe with the speed of a gale. <br>1d8 + 200% ATK (![[Wind.png]]Wind element) - 10ft range, moves you to be right in front of your target.<br>2 SP Cost |
 | 5   | Power Charge          | Special Skill: Focus your power, doubling your ATK for the following turn. <br>2 SP Cost                                                                                                  |
 | 6   | Shockwave Blade       | Sword Skill: Unleash a Shockwave at a foe with spinning slashes.<br>1d8 +320% ATK - 5ft range.<br>5 SP Cost                                                                               |
@@ -263,24 +263,24 @@ Proficient with: Daggers, Scythes, Boomerangs, Abacuses
 Skill adaptation: Throwing, Mercantile, EX-Item
 Passive: Haggling advantage, Medicine Lore I
 
-| Lv  | Unlocks                      | Description                                                |
-| --- | ---------------------------- | ---------------------------------------------------------- |
-| 2   | Buy Herb                     | Mercantile Skill:                                          |
-| 3   | Buy Antidote Grass           | Mercantile Skill:                                          |
-| 3   | Buy Eye Drops                | Mercantile Skill:                                          |
-| 3   | Buy Full-Moon Grass          | Mercantile Skill:                                          |
-| 3   | HP +10% (Ability)            | Ability: increases HP by 10% (calculated using base stats) |
-| 4   | Throw Gold                   | Mercantile Skill:                                          |
-| 5   | Rescue Request               | Mercantile Skill:                                          |
-| 6   | Buy Phoenix Feather          | Mercantile Skill:                                          |
-| 6   | Medicine Lore I (Ability)    | Ability:                                                   |
-| 7   | Wagon                        | Mercantile Skill:                                          |
-| 8   | Buy Echo Grass               | Mercantile Skill:                                          |
-| 8   | Buy Restorative              | Mercantile Skill:                                          |
-| 8   | Life Insurance (Ability)     | Ability:                                                   |
-| 9   | Haggling Advantage (Ability) | Ability:                                                   |
-| 9   | Product Delivery             | Mercantile Skill:                                          |
-| 10  | Buy Miracle Drug             | Mercantile Skill:                                          |
+| Lv  | Unlocks                      | Description       |
+| --- | ---------------------------- | ----------------- |
+| 2   | Buy Herb                     | Mercantile Skill: |
+| 3   | Buy Antidote Grass           | Mercantile Skill: |
+| 3   | Buy Eye Drops                | Mercantile Skill: |
+| 3   | Buy Full-Moon Grass          | Mercantile Skill: |
+| 3   | HP +10% (Ability)            | Ability:          |
+| 4   | Throw Gold                   | Mercantile Skill: |
+| 5   | Rescue Request               | Mercantile Skill: |
+| 6   | Buy Phoenix Feather          | Mercantile Skill: |
+| 6   | Medicine Lore I (Ability)    | Ability:          |
+| 7   | Wagon                        | Mercantile Skill: |
+| 8   | Buy Echo Grass               | Mercantile Skill: |
+| 8   | Buy Restorative              | Mercantile Skill: |
+| 8   | Life Insurance (Ability)     | Ability:          |
+| 9   | Haggling Advantage (Ability) | Ability:          |
+| 9   | Product Delivery             | Mercantile Skill: |
+| 10  | Buy Miracle Drug             | Mercantile Skill: |
 
 #### Fortune Teller
 
@@ -659,17 +659,17 @@ Proficient with: Fangs
 Skill Adaptation: All Racial Skills
 Passive: +15% Racial Skill Dmg, +15% Critical Rate
 
-| Lv  | Unlocks                         | Description                                                |
-| --- | ------------------------------- | ---------------------------------------------------------- |
-| 2   | Bite                            | Beast Skill:                                               |
-| 3   | HP +10% (Ability)               | Ability: increases HP by 10% (calculated using base stats) |
-| 4   | SP +10% (Ability)               | Ability:                                                   |
-| 5   | Attack +10% (Ability)           | Ability:                                                   |
-| 6   | Tackle                          | Beast Skill:                                               |
-| 7   | Attack Focus (Ability)          | Ability:                                                   |
-| 8   | Speed Focus (Ability)           | Ability:                                                   |
-| 9   | Racial Skill Cost 75% (Ability) | Ability:                                                   |
-| 10  | Monster Nature (Ability)        | Ability:                                                   |
+| Lv  | Unlocks                         | Description  |
+| --- | ------------------------------- | ------------ |
+| 2   | Bite                            | Beast Skill: |
+| 3   | Max HP +10% (Ability)           | Ability:     |
+| 4   | Max SP +10% (Ability)           | Ability:     |
+| 5   | Attack +10% (Ability)           | Ability:     |
+| 6   | Tackle                          | Beast Skill: |
+| 7   | Attack Focus (Ability)          | Ability:     |
+| 8   | Speed Focus (Ability)           | Ability:     |
+| 9   | Racial Skill Cost 75% (Ability) | Ability:     |
+| 10  | Monster Nature (Ability)        | Ability:     |
 #### Unemployed
 
 Unemployed bum with no job. There are no advantages or skills associated with being unemployed. Mastering it does nothing either.
@@ -1217,19 +1217,19 @@ Proficient with: Shells, Robes, Fancy Caps
 Skill Adaptation: Throwing, Slime
 Passive: Slime Strike 10%, Boomerang Booster 10%
 
-| Lv  | Unlocks                         | Description                                                |
-| --- | ------------------------------- | ---------------------------------------------------------- |
-| 2   | Slime Draw                      | Slime Skill:                                               |
-| 3   | Stretch Shot                    | Throwing Skill:                                            |
-| 3   | HP +10% (Ability)               | Ability: increases HP by 10% (calculated using base stats) |
-| 4   | +25% Water Resistance (Ability) | Ability:                                                   |
-| 5   | Slime Pierce                    | Slime Skill:                                               |
-| 6   | Slime Heal                      | Slime Skill:                                               |
-| 7   | Swallow Drop                    | Throwing Skill:                                            |
-| 8   | Dissolving Liquid               | Slime Skill:                                               |
-| 8   | Harpy Slayer (Ability)          | Ability:                                                   |
-| 9   | HP Regen 5% (Ability)           | Ability:                                                   |
-| 10  | Slime Body (Ability)            | Ability:                                                   |
+| Lv  | Unlocks                         | Description     |
+| --- | ------------------------------- | --------------- |
+| 2   | Slime Draw                      | Slime Skill:    |
+| 3   | Stretch Shot                    | Throwing Skill: |
+| 3   | HP +10% (Ability)               | Ability:        |
+| 4   | +25% Water Resistance (Ability) | Ability:        |
+| 5   | Slime Pierce                    | Slime Skill:    |
+| 6   | Slime Heal                      | Slime Skill:    |
+| 7   | Swallow Drop                    | Throwing Skill: |
+| 8   | Dissolving Liquid               | Slime Skill:    |
+| 8   | Harpy Slayer (Ability)          | Ability:        |
+| 9   | HP Regen 5% (Ability)           | Ability:        |
+| 10  | Slime Body (Ability)            | Ability:        |
 
 #### Beast
 
@@ -1553,17 +1553,17 @@ Proficient with: Fangs, Breastplates, Armour, Heavy Armour, Hats, Helmets, Heavy
 Skill Adaptation: Beast, Breath
 Passive: Fang Booster +10%
 
-| Lv  | Unlocks           | Description                                                |
-| --- | ----------------- | ---------------------------------------------------------- |
-| 2   | Fire Breath       | Breath Skill:                                              |
-| 3   | HP +10% (Ability) | Ability: increases HP by 10% (calculated using base stats) |
-| 4   | Scratch           | Beast Skill:                                               |
-| 5   | Attack +10%       | Ability:                                                   |
-| 6   | Cold Breath       | Breath Skill:                                              |
-| 7   | Roar              | Beast Skill:                                               |
-| 8   | Scorching Breath  | Breath Skill:                                              |
-| 9   | Bite              | Beast Skill:                                               |
-| 10  | Flame Breath      | Breath Skill:                                              |
+| Lv  | Unlocks           | Description   |
+| --- | ----------------- | ------------- |
+| 2   | Fire Breath       | Breath Skill: |
+| 3   | HP +10% (Ability) | Ability:      |
+| 4   | Scratch           | Beast Skill:  |
+| 5   | Attack +10%       | Ability:      |
+| 6   | Cold Breath       | Breath Skill: |
+| 7   | Roar              | Beast Skill:  |
+| 8   | Scorching Breath  | Breath Skill: |
+| 9   | Bite              | Beast Skill:  |
+| 10  | Flame Breath      | Breath Skill: |
 
 #### Land-Dweller
 
@@ -1607,19 +1607,19 @@ Proficient with: Breastplates, Shells, Robes, Hats, Fancy Caps, Bucklers
 Skill adaptation: Slime, Beast, Tentacle, Breath
 Passive: Metabolism Up
 
-| Lv  | Unlocks                 | Description                                                |
-| --- | ----------------------- | ---------------------------------------------------------- |
-| 2   | Poison Breath           | Breath Skill:                                              |
-| 3   | Dissolving Liquid       | Slime Skill:                                               |
-| 3   | HP +10% (Ability)       | Ability: increases HP by 10% (calculated using base stats) |
-| 4   | Threaten                | Beast Skill:                                               |
-| 4   | Defence +10% (Ability)  | Ability:                                                   |
-| 5   | Tackle                  | Beast Skill:                                               |
-| 6   | Metabolism Up (Ability) | Ability:                                                   |
-| 7   | Fire Breath             | Breath Skill:                                              |
-| 8   | Sweet Breath            | Breath Skill:                                              |
-| 9   | Cruel Tongue            | Special Skill:                                             |
-| 10  | Venom Claw              | Beast Skill:                                               |
+| Lv  | Unlocks                 | Description    |
+| --- | ----------------------- | -------------- |
+| 2   | Poison Breath           | Breath Skill:  |
+| 3   | Dissolving Liquid       | Slime Skill:   |
+| 3   | HP +10% (Ability)       | Ability:       |
+| 4   | Threaten                | Beast Skill:   |
+| 4   | Defence +10% (Ability)  | Ability:       |
+| 5   | Tackle                  | Beast Skill:   |
+| 6   | Metabolism Up (Ability) | Ability:       |
+| 7   | Fire Breath             | Breath Skill:  |
+| 8   | Sweet Breath            | Breath Skill:  |
+| 9   | Cruel Tongue            | Special Skill: |
+| 10  | Venom Claw              | Beast Skill:   |
 
 #### Sea-Dweller
 
@@ -1663,18 +1663,18 @@ Proficient with: Breastplates, Shells, Robes, Fancy Caps, Bucklers
 Skill Adaptation: Ocean, Tentacles
 Passive: Sea Strength
 
-| Lv  | Unlocks                  | Description                                                |
-| --- | ------------------------ | ---------------------------------------------------------- |
-| 2   | Tentacle Strike          | Tentacle Skill:                                            |
-| 3   | HP +10% (Ability)        | Ability: increases HP by 10% (calculated using base stats) |
-| 3   | Dexterity +10% (Ability) | Ability:                                                   |
-| 4   | Water Bullet             | Ocean Skill:                                               |
-| 5   | Ink                      | Tentacle Skill:                                            |
-| 6   | Tentacle Caress          | Tentacle Skill:                                            |
-| 7   | Tentacle Restraint       | Tentacle Skill:                                            |
-| 8   | Bubble Bubble            | Ocean Skill:                                               |
-| 9   | Sea Strength (Ability)   | Ability:                                                   |
-| 10  | Toxic Tentacle           | Tentacle Skill:                                            |
+| Lv  | Unlocks                  | Description     |
+| --- | ------------------------ | --------------- |
+| 2   | Tentacle Strike          | Tentacle Skill: |
+| 3   | HP +10% (Ability)        | Ability:        |
+| 3   | Dexterity +10% (Ability) | Ability:        |
+| 4   | Water Bullet             | Ocean Skill:    |
+| 5   | Ink                      | Tentacle Skill: |
+| 6   | Tentacle Caress          | Tentacle Skill: |
+| 7   | Tentacle Restraint       | Tentacle Skill: |
+| 8   | Bubble Bubble            | Ocean Skill:    |
+| 9   | Sea Strength (Ability)   | Ability:        |
+| 10  | Toxic Tentacle           | Tentacle Skill: |
 
 #### Insect
 
@@ -1828,23 +1828,23 @@ Shambling corpse reanimated by unknown means. With no memory or sense of self to
 
 Proficient with: Breastplates, Armour, Heavy Armour, Hats, Helmets, Heavy Helmets
 Skill Adaptation: Clubs, Dancing, Corpse, Breath
-Passive: Poison Strike +5%, Zombie Strike +5%
+Passive: Poison Strike +5%, Zombie Strike +5%, Zombie Constitution
 
-| Lv  | Unlocks                       | Description                                                |
-| --- | ----------------------------- | ---------------------------------------------------------- |
-| 1   | Zombie Constitution (Ability) | Ability:                                                   |
-| 2   | Grab                          | Corpse Skill:                                              |
-| 3   | Poison Breath                 | Breath Skill:                                              |
-| 3   | HP +10% (Ability)             | Ability: increases HP by 10% (calculated using base stats) |
-| 4   | Expert Blitz                  | Club Skill:                                                |
-| 5   | Dance Invitation              | Dancing Skill:                                             |
-| 5   | Cling                         | Corpse Skill:                                              |
-| 6   | Interior Showcase             | Corpse Skill:                                              |
-| 7   | Poison Kiss                   | Corpse Skill:                                              |
-| 8   | Cold Breath                   | Breath Skill:                                              |
-| 8   | +25% Bio Resistance (Ability) | Ability:                                                   |
-| 9   | Sweet Breath                  | Breath Skill:                                              |
-| 10  | Zombie Chaos Club             | Club Skill:                                                |
+| Lv  | Unlocks                       | Description    |
+| --- | ----------------------------- | -------------- |
+| 1   | Zombie Constitution (Ability) | Ability:       |
+| 2   | Grab                          | Corpse Skill:  |
+| 3   | Poison Breath                 | Breath Skill:  |
+| 3   | HP +10% (Ability)             | Ability:       |
+| 4   | Expert Blitz                  | Club Skill:    |
+| 5   | Dance Invitation              | Dancing Skill: |
+| 5   | Cling                         | Corpse Skill:  |
+| 6   | Interior Showcase             | Corpse Skill:  |
+| 7   | Poison Kiss                   | Corpse Skill:  |
+| 8   | Cold Breath                   | Breath Skill:  |
+| 8   | +25% Bio Resistance (Ability) | Ability:       |
+| 9   | Sweet Breath                  | Breath Skill:  |
+| 10  | Zombie Chaos Club             | Club Skill:    |
 
 #### Ghost
 
