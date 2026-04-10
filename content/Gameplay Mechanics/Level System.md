@@ -19,7 +19,7 @@ Basic and Intermediate Jobs/Races cap at level 10, to see what you learn in each
 
 Since you're able and encouraged to switch between Jobs (and Races once you're able) a personal level disconnected from the former ones is necessary.
 
-You gain XP for this solely by winning battles (Partial victories, such as beating some enemies, and then fleeing count as well), and on level up, while you do not learn any skills, your overall base stats increase.
+You gain XP for this solely by winning battles (Partial victories, such as beating some enemies, and then fleeing count as well), and on level up, while you do not learn any skills, your overall base stats increase by 1d6 each (meaning you roll 1d6 for each of your [[Stats#Base Stats|Base Stats]])
 
 So the personal level is present entirely to make an overarching stat progression that allows for players to switch and test around jobs as they please, without sacrificing their entire strength and investment.
 

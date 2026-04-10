@@ -62,3 +62,20 @@ Salamander doesn't really consider himself much of a god, rather, he is much mor
 
 His power, while minor compared to the Dark and Light embodiments, is directly connected to the world, although different from his Natural counterparts, his specialization lies in bringing out Explosive potential in people, at a cost. If he were to die, volcanos would erupt, and there'd be a massive decrease in global temperatures.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

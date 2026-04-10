@@ -101,31 +101,7 @@ Manifests a magical thread only visible to the user, said thread leads to the ex
 
 ### ![[Shuriken.png]] Shuriken
 
-Throwable weapon usually used by Ninjas. 
-
-### ![[Fuma Shuriken.png]] Fuma Shuriken
-
-Throwable weapon usually used by Ninjas. 
-
-### ![[Crystal Shuriken.png]] Crystal Shuriken
-
-Throwable weapon usually used by Ninjas. 
-
-### ![[DragonScale Shuriken.png]] Dragon Scale Shuriken
-
-Throwable weapon usually used by Ninjas. 
-
-### ![[Orihalcum Shuriken.png]] Orihalcum Shuriken
-
-Throwable weapon usually used by Ninjas. 
-
-### ![[Rainbow Shuriken.png]] Rainbow Shuriken
-
-Throwable weapon usually used by Ninjas. 
-
-### ![[Meteor Shuriken.png]] Meteor Shuriken
-
-Throwable weapon usually used by Ninjas. 
+Sharp and pointy weapon made for throwing 
 
 ### ![[Grimoire Page.png]]Grimoire Page
 

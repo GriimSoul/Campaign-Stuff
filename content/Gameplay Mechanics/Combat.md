@@ -7,7 +7,7 @@ Unlike regular Dnd, the order or turns is NOT decided on a roll, but instead det
 
 In cases where two combatants have the same agility stat, the tie is broken via a coin flip, where both choose one side of the coin, and whichever side it lands on, determines who goes first.
 
-Initiative can also be affected by special [[Stats#A|Abilities]] or situations in ways that override the standard Agility method for getting the turn order, such as:
+Initiative can also be affected by special [[Stats#Ability Points|Abilities]] or situations in ways that override the standard Agility method for getting the turn order, such as:
 
 
 | Condition               | Effect                                                                                                                                                                                                                                                                                                                                                                                                                   |

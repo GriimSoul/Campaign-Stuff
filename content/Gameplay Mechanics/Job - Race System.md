@@ -31,8 +31,8 @@ An ordinary fighter and the first step for all warrior-type jobs. Better than av
 	AGI 95%
 	DEX 80%
 
-Proficient with: Daggers, Swords, Rapiers, Spears, Axes, Clubs, Scythes, Flails, Armour, Helmets, Shields.
-Skill adaptation: Dagger, Sword, Rapier
+- Proficient with: Daggers, Swords, Rapiers, Spears, Axes, Clubs, Scythes, Flails, Armour, Helmets, Shields.
+- Skill Adaptation: Dagger, Sword, Rapier
 
 
 | Lv  | Unlocks               | Description                                                                                                                                                                               |
@@ -92,9 +92,9 @@ The first step for all magic-user jobs. Specializes in magic; extremely poor at 
 	AGI 100%
 	DEX 105%
 
-Proficient with: Daggers, Rapiers, Scythes, Rods, Grimoires, Robes, Magic Hats
-Skill Adaptation: Black Magic
-Passive: Resist Fire/Ice/Lightning 15%
+- Proficient with: Daggers, Rapiers, Scythes, Rods, Grimoires, Robes, Magic Hats
+- Skill Adaptation: Black Magic
+- Passive: Resist Fire/Ice/Lightning 15%
 
 | Lv  | Unlocks                  | Description    |
 | --- | ------------------------ | -------------- |
@@ -126,8 +126,8 @@ A pious monk who serves Aryllis and specializes in healing magic. Invaluable on 
 	AGI 100%
 	DEX 105%
 
-Proficient with: Clubs, Whips, Staffs, Grimoires, Robes, Magic Hats
-Skill Adaptation: White Magic
+- Proficient with: Clubs, Whips, Staffs, Grimoires, Robes, Magic Hats
+- Skill Adaptation: White Magic
 
 | Lv  | Unlocks                 | Description  |
 | --- | ----------------------- | ------------ |
@@ -158,9 +158,9 @@ Experts with the bow, Hunters have extremely high accuracy and also learn elemen
 	AGI 110%
 	DEX 110%
 
-Proficient with: Daggers, Scythes, Bows, Whips, Boomerangs
-Skill adaptation: Scythe, Bow, Whip, Throwing
-Passive: Crit/Eva +5%, Forest Strength, Slayer Boost 25%
+- Proficient with: Daggers, Scythes, Bows, Whips, Boomerangs
+- Skill Adaptation: Scythe, Bow, Whip, Throwing
+- Passive: Crit/Eva +5%, Forest Strength, Slayer Boost 25%
 
 
 | Lv  | Unlocks                       | Description    |
@@ -192,9 +192,9 @@ Thieves make their living by taking from others, including stealing items from e
 	AGI 110%
 	DEX 110%
 
-Proficient with: Daggers, Scythes, Whips, Boomerangs
-Skill adaptation: Dagger, Throwing, Thievery
-Passive: Crit +5%, Eva +10%, Nullify Ambush, Preemptive Strike Chance, Steal sleight of hand rolls +5
+- Proficient with: Daggers, Scythes, Whips, Boomerangs
+- Skill Adaptation: Dagger, Throwing, Thievery
+- Passive: Crit +5%, Eva +10%, Nullify Ambush, Preemptive Strike Chance, Steal sleight of hand rolls +5
 
 
 | Lv  | Unlocks                  | Description     |
@@ -226,9 +226,9 @@ Protects towns and castles, your average Guard. Learns skills to weaken and disa
 	AGI 95%
 	DEX 80%
 
-Proficient with: Daggers, Swords, Rapiers, Spears, Boomerangs, Armour, Helmet, Shield
-Skill adaptation: Sword, Spear
-Passive: City Strength
+- Proficient with: Daggers, Swords, Rapiers, Spears, Boomerangs, Armour, Helmet, Shield
+- Skill Adaptation: Sword, Spear
+- Passive: City Strength
 
 | Lv  | Unlocks                | Description    |
 | --- | ---------------------- | -------------- |
@@ -259,9 +259,9 @@ Travelling Salesman enthusiastic about business. Not suited for combat, but none
 	AGI 90%
 	DEX 105%
 
-Proficient with: Daggers, Scythes, Boomerangs, Abacuses
-Skill adaptation: Throwing, Mercantile, EX-Item
-Passive: Haggling advantage, Medicine Lore I
+- Proficient with: Daggers, Scythes, Boomerangs, Abacuses
+- Skill Adaptation: Throwing, Mercantile, EX-Item
+- Passive: Haggling advantage, Medicine Lore I
 
 | Lv  | Unlocks                      | Description       |
 | --- | ---------------------------- | ----------------- |
@@ -298,9 +298,9 @@ A soothsaying expert of mysterious forces. Uses tarot cards that bring out rando
 	AGI 100%
 	DEX 110%
 
-Proficient with: Daggers, Staves, Rods, Cards
-Skill adaptation: Oracle
-Passive: Loot finding advantage, Slots Rerolls +1
+- Proficient with: Daggers, Staves, Rods, Cards
+- Skill Adaptation: Oracle
+- Passive: Loot finding advantage, Slots Rerolls +1
 
 | Lv  | Unlocks                             | Description   |
 | --- | ----------------------------------- | ------------- |
@@ -328,9 +328,9 @@ A useless job, Gadabouts are inclined to goof off during battle. Not only are th
 	AGI 105%
 	DEX 105%
 
-Proficient with: Fans, Whips, Boomerangs
-Skill adaptation: Oracle, Dancing, Singing
-Passive: Crit/Eva +20%, 50% Chance to play around mid battle
+- Proficient with: Fans, Whips, Boomerangs
+- Skill Adaptation: Oracle, Dancing, Singing
+- Passive: Crit/Eva +20%, 50% Chance to play around mid battle
 
 | Lv  | Unlocks                              | Description    |
 | --- | ------------------------------------ | -------------- |
@@ -361,8 +361,8 @@ Ambitious student on the pursuit of truth. Utilizes a new form of magic to fend 
 	AGI 85%
 	DEX 105%
 
-Proficient with: Rods, Scalpels, Grimoires, Guns
-Skill adaptation: Magic Science, Alchemy, Grimoire
+- Proficient with: Rods, Scalpels, Grimoires, Guns
+- Skill Adaptation: Magic Science, Alchemy, Grimoire
 
 | Lv  | Unlocks                         | Description    |
 | --- | ------------------------------- | -------------- |
@@ -392,8 +392,8 @@ Job that uses cutting-edge weaponry to dispatch whole swaths of enemies. Despite
 	AGI 85%
 	DEX 110%
 
-Proficient with: Daggers, Clubs, Gun
-Skill adaptation: Makina
+- Proficient with: Daggers, Clubs, Gun
+- Skill Adaptation: Makina
 
 | Lv  | Unlocks                  | Description   |
 | --- | ------------------------ | ------------- |
@@ -423,8 +423,8 @@ Novice necromancer who seeks mastery of the three arts. Learns a few fledgling s
 	AGI 110%
 	DEX 110%
 
-Proficient with: Scythes, Rods, Whips, Grimoires, Robes, Magic Hats
-Skill adaptation: Scythe, Summoning
+- Proficient with: Scythes, Rods, Whips, Grimoires, Robes, Magic Hats
+- Skill Adaptation: Scythe, Summoning
 
 | Lv  | Unlocks                               | Description      |
 | --- | ------------------------------------- | ---------------- |
@@ -438,7 +438,9 @@ Skill adaptation: Scythe, Summoning
 | 9   | Drain Strike (Ability)                | Ability:         |
 | 10  | Skill Adaptation: Summoning (Ability) | Ability:         |
 
-#### Informant - Only available if the Recruitment system is implemented.
+#### Informant 
+
+**Only available if the Recruitment system is implemented.**
 
 Prerequisites: Informant Papers
 
@@ -454,8 +456,8 @@ Words become weapons in this unorthodox job. Distract the enemy with stories and
 	AGI 105%
 	DEX 105%
 
-Proficient with: Daggers, Rapiers, Boomerangs, Guns
-Skill Adaptation: Throwing, Converse
+- Proficient with: Daggers, Rapiers, Boomerangs, Guns
+- Skill Adaptation: Throwing, Converse
 
 | Lv  | Unlocks                  | Description     |
 | --- | ------------------------ | --------------- |
@@ -485,8 +487,8 @@ Devoted foodie in pursuit of unique recipes. Skilled hands and a passionate hear
 	AGI 100%
 	DEX 110%
 
-Proficient with: Daggers, Scythes, Kitchen Knives
-Skill Adaptation: Dagger, Cooking
+- Proficient with: Daggers, Scythes, Kitchen Knives
+- Skill Adaptation: Dagger, Cooking
 
 | Lv  | Unlocks                    | Description    |
 | --- | -------------------------- | -------------- |
@@ -533,9 +535,9 @@ Assistant doctor armed with basic first aid. Mend wounds, inoculate against stat
 	AGI 105%
 	DEX 110%
 
-Proficient with: Staves, Scalpels
-Skill adaptation: Dagger, Medical
-Passive: Eva +10%
+- Proficient with: Staves, Scalpels
+- Skill Adaptation: Dagger, Medical
+- Passive: Eva +10%
 
 | Lv  | Unlocks                 | Description    |
 | --- | ----------------------- | -------------- |
@@ -566,9 +568,9 @@ Dutifully performs household tasks with utmost care. Improves housekeeping skill
 	AGI 110%
 	DEX 110%
 
-Proficient with: Whips, Fans, Plates
-Skill adaptation: Whip, Service
-Passive: Eva/Mag Eva +10%
+- Proficient with: Whips, Fans, Plates
+- Skill Adaptation: Whip, Service
+- Passive: Eva/Mag Eva +10%
 
 | Lv  | Unlocks                         | Description    |
 | --- | ------------------------------- | -------------- |
@@ -597,9 +599,9 @@ Members of the nobility who appear on the battlefield to fulfill the obligations
 	AGI 110%
 	DEX 110%
 
-Proficient with: Daggers, Rapiers, Bows
-Skill Adaptation: Dagger, Rapier, Ruling
-Passive: Eva +10%, HP Regen 5%
+- Proficient with: Daggers, Rapiers, Bows
+- Skill Adaptation: Dagger, Rapier, Ruling
+- Passive: Eva +10%, HP Regen 5%
 
 | Lv  | Unlocks                            | Description   |
 | --- | ---------------------------------- | ------------- |
@@ -627,8 +629,8 @@ A hero-in-training who has not received the blessing of the Goddess. Aims to be 
 	AGI 100%
 	DEX 90%
 
-Proficient with: Daggers, Swords, Rapiers, Spears, Axes, Clubs, Scythes, Boomerangs, Armour, Helmet, Shield
-Skill Adaptation: Dagger, Sword, Heroism
+- Proficient with: Daggers, Swords, Rapiers, Spears, Axes, Clubs, Scythes, Boomerangs, Armour, Helmet, Shield
+- Skill Adaptation: Dagger, Sword, Heroism
 
 | Lv  | Unlocks                     | Description    |
 | --- | --------------------------- | -------------- |
@@ -655,9 +657,9 @@ A wild child who fights weaponless, using only their body to unleash pure, untam
 	AGI 110%
 	DEX 80%
 
-Proficient with: Fangs
-Skill Adaptation: All Racial Skills
-Passive: +15% Racial Skill Dmg, +15% Critical Rate
+- Proficient with: Fangs
+- Skill Adaptation: All Racial Skills
+- Passive: +15% Racial Skill Dmg, +15% Critical Rate
 
 | Lv  | Unlocks                         | Description  |
 | --- | ------------------------------- | ------------ |
@@ -684,7 +686,7 @@ Unemployed bum with no job. There are no advantages or skills associated with be
 	AGI 90%
 	DEX 90%
 
-Proficient with: Daggers
+- Proficient with: Daggers
 
 | **Lv** | **Unlocks** | **Description**            |
 | ------ | ----------- | -------------------------- |
@@ -724,7 +726,7 @@ In order to obtain races of higher skill and complexity, one must first master t
 
 #### Human 
 
-A pure, commonplace human. Fairly talkative, armor that can be equipped effectively depends on the individual. Humans learn many abilities related to experience point acquisition.
+A pure, commonplace human. Fairly talkative, armour that can be equipped effectively depends on the individual. Humans learn many abilities related to experience point acquisition.
 
 	HP 100%
 	MP 100%
@@ -761,8 +763,8 @@ A pure, commonplace human. Fairly talkative, armor that can be equipped effectiv
 | ![[Trance.png]]Trance           | 100%   | \|  | ![[Horny.png]]Horny         | 100% |
 | ![[Incontience.png]]Incontience | 100%   | \|  | ![[Seduction.png]]Seduction | 100% |
 
-Skill Adaptation: Converse
-Proficient with: All body equipment (does NOT include weapons)
+- Skill Adaptation: Converse
+- Proficient with: All body equipment (does NOT include weapons)
 
 | Lv  | Unlocks                          | Description    |
 | --- | -------------------------------- | -------------- |
@@ -814,9 +816,9 @@ The monster race with the highest magical power and intelligence. Yoma are stron
 | ![[Trance.png]]Trance           | ==75%==      | \|  | ![[Horny.png]]Horny         | ==75%== |
 | ![[Incontience.png]]Incontience | ==75%==      | \|  | ![[Seduction.png]]Seduction | ==75%== |
 
-Proficient With: Armour, Heavy Armour, Helmets, Heavy Helmets, Shields, Heavy Shields
-Skill Adaptation: Rapier, Black Magic, Dark, Demon Arts
-Passive: Rapier Booster 10%
+- Proficient with: Armour, Heavy Armour, Helmets, Heavy Helmets, Shields, Heavy Shields
+- Skill Adaptation: Rapier, Black Magic, Dark, Demon Arts
+- Passive: Rapier Booster 10%
 
 
 | Lv  | Unlocks                        | Description   |
@@ -875,9 +877,9 @@ Monsters that resemble humans. Aside from HP and magic, their stats are mostly i
 | ![[Trance.png]]Trance           | 100%    | \|  | ![[Horny.png]]Horny         |         100% |
 | ![[Incontience.png]]Incontience | 100%    | \|  | ![[Seduction.png]]Seduction |         100% |
 
-Proficient with: Gi, Breastplates, Armor, Dresses, Skimpy, Hats, Helmets, Bucklers, Shields
-Skill Adaptation: Scythe, Taoism, Demon Arts
-Passive: Scythe Booster: 10%
+- Proficient with: Gi, Breastplates, Armor, Dresses, Skimpy, Hats, Helmets, Bucklers, Shields
+- Skill Adaptation: Scythe, Taoism, Demon Arts
+- Passive: Scythe Booster: 10%
 
 | Lv  | Unlocks                | Description   |
 | --- | ---------------------- | ------------- |
@@ -929,9 +931,9 @@ Small demons who subsist on human energy; not quite skilled enough yet to be cal
 | ![[Trance.png]]Trance           | ==25%== | \|  | ![[Horny.png]]Horny         | ==25%== |
 | ![[Incontience.png]]Incontience | ==25%== | \|  | ![[Seduction.png]]Seduction | ==25%== |
 
-Proficient with: Robes, Dresses, Skimpy, Hats, Magic Hats, Fancy Caps, Bucklers
-Skill Adaptation: Black Magic, Demon Arts, Nature, Temptation
-Passive: Horny Strike 5%, Trance Strike 5%, Evasion +10%
+- Proficient with: Robes, Dresses, Skimpy, Hats, Magic Hats, Fancy Caps, Bucklers
+- Skill Adaptation: Black Magic, Demon Arts, Nature, Temptation
+- Passive: Horny Strike 5%, Trance Strike 5%, Evasion +10%
 
 | Lv  | Unlocks                  | Description       |
 | --- | ------------------------ | ----------------- |
@@ -984,9 +986,9 @@ Nocturnal monster that feeds on blood. Boasting strong bodies and even stronger 
 | ![[Trance.png]]Trance           | 100%         | \|  | ![[Horny.png]]Horny         |         100% |
 | ![[Incontience.png]]Incontience | 100%         | \|  | ![[Seduction.png]]Seduction |         100% |
 
-Proficient with: Fangs, Armour, Heavy Armour, Robes, Dresses, Hats, Helmets, Heavy Helmets, Fancy Caps, Bucklers, Shields, Heavy Shields.
-Skill Adaptation: Dagger, Black Magic, Dark, Demon Arts
-Passive: Dagger Booster 10%
+- Proficient with: Fangs, Armour, Heavy Armour, Robes, Dresses, Hats, Helmets, Heavy Helmets, Fancy Caps, Bucklers, Shields, Heavy Shields.
+- Skill Adaptation: Dagger, Black Magic, Dark, Demon Arts
+- Passive: Dagger Booster 10%
 
 | Lv  | Unlocks                             | Description   |
 | --- | ----------------------------------- | ------------- |
@@ -1040,9 +1042,9 @@ Beautiful monster with a lower fish body. Controls water at will to attack enemi
 | ![[Slimed.png]]Slimed           | 100%         | \|  | ![[Stun.png]]Stun           |         100% |
 | ![[Trance.png]]Trance           | 100%         | \|  | ![[Horny.png]]Horny         |         100% |
 | ![[Incontience.png]]Incontience | 100%         | \|  | ![[Seduction.png]]Seduction | **==NULL==** |
-Proficient with: Breastplates, Robes, Hats, Magic Hats, Fancy Caps, Bucklers
-Skill Adaptation: White Magic, Black Magic, Singing, Ocean
-Passive: Sleep Strike 5%, Sea Strength, Recovery Booster 25%
+- Proficient with: Breastplates, Robes, Hats, Magic Hats, Fancy Caps, Bucklers
+- Skill Adaptation: White Magic, Black Magic, Singing, Ocean
+- Passive: Sleep Strike 5%, Sea Strength, Recovery Booster 25%
 
 | Lv  | Unlocks                         | Description  |
 | --- | ------------------------------- | ------------ |
@@ -1099,9 +1101,9 @@ Self-proclaimed forest guardians resembling humans, they pride themselves on alw
 | ![[Trance.png]]Trance           | *150%*  | \|  | ![[Horny.png]]Horny         |  *150%* |
 | ![[Incontience.png]]Incontience | *150%*  | \|  | ![[Seduction.png]]Seduction |  *150%* |
 
-Proficient with: Gi, Robes, Dresses,, Skimpy, Hats, Fancy Caps
-Skill Adaptation: Bow, Temptation, Demon Arts, Nature
-Passive: Forest Strength, Slayer Boost 50%, Evasion +10%
+- Proficient with: Gi, Robes, Dresses,, Skimpy, Hats, Fancy Caps
+- Skill Adaptation: Bow, Temptation, Demon Arts, Nature
+- Passive: Forest Strength, Slayer Boost 50%, Evasion +10%
 
 | Lv  | Unlocks                    | Description       |
 | --- | -------------------------- | ----------------- |
@@ -1155,9 +1157,9 @@ Playful forest-dwellers resembling humans. Although physically powerless, their 
 | ![[Trance.png]]Trance           | 100%         | \|  | ![[Horny.png]]Horny         |         100% |
 | ![[Incontience.png]]Incontience | 100%         | \|  | ![[Seduction.png]]Seduction |         100% |
 
-Proficient with: Robes, Fancy Caps
-Skill Adaptation: White Magic, Black Magic, Dancing, Nature
-Passive: MP Regen 1%, Slots Reroll +1, Evasion +40%, Mag Evasion 40%
+- Proficient with: Robes, Fancy Caps
+- Skill Adaptation: White Magic, Black Magic, Dancing, Nature
+- Passive: MP Regen 1%, Slots Reroll +1, Evasion +40%, Mag Evasion 40%
 
 | Lv  | Unlocks                        | Description   |
 | --- | ------------------------------ | ------------- |
@@ -1213,9 +1215,9 @@ A monster composed entirely of slime. Besides using their slimy bodies as a weap
 | ![[Trance.png]]Trance           | 100%         | \|  | ![[Horny.png]]Horny         |         100% |
 | ![[Incontience.png]]Incontience | 100%         | \|  | ![[Seduction.png]]Seduction |         100% |
 
-Proficient with: Shells, Robes, Fancy Caps
-Skill Adaptation: Throwing, Slime
-Passive: Slime Strike 10%, Boomerang Booster 10%
+- Proficient with: Shells, Robes, Fancy Caps
+- Skill Adaptation: Throwing, Slime
+- Passive: Slime Strike 10%, Boomerang Booster 10%
 
 | Lv  | Unlocks                         | Description     |
 | --- | ------------------------------- | --------------- |
@@ -1268,9 +1270,9 @@ A type of monster with pronounced animal features. Beasts are fast and tear at t
 | ![[Slimed.png]]Slimed           | *150%* | \|  | ![[Stun.png]]Stun           | *125%* |
 | ![[Trance.png]]Trance           | *150%* | \|  | ![[Horny.png]]Horny         | *150%* |
 | ![[Incontience.png]]Incontience | *150%* | \|  | ![[Seduction.png]]Seduction | *150%* |
-Proficient with: Fang, Breastplates, Fancy Caps
-Skill Adaptation: Beast
-Passive: Counter +25%, Crit +15%, Evasion +20%, Fang Booster 10%
+- Proficient with: Fang, Breastplates, Fancy Caps
+- Skill Adaptation: Beast
+- Passive: Counter +25%, Crit +15%, Evasion +20%, Fang Booster 10%
 
 | Lv  | Unlocks                      | Description  |
 | --- | ---------------------------- | ------------ |
@@ -1325,9 +1327,9 @@ Mysterious and mischievous fox monster. Makes for a decent magician with an adeq
 | ![[Trance.png]]Trance           | 100%    | \|  | ![[Horny.png]]Horny         |    100% |
 | ![[Incontience.png]]Incontience | 100%    | \|  | ![[Seduction.png]]Seduction |    100% |
 
-Proficient with: Gi, Breastplates,, Armours, Robes, Dresses, Skimpy, Hats,, Helmets, Magic Hats, Fancy Caps, Bucklers,, Shields
-Skill Adaptation: Fan, Black Magic, Taoism, Ninjustsu, Beast, Nature
-Passive: SP Regeneration 5%, Magic Evasion +10%, Fan Booster 10%
+- Proficient with: Gi, Breastplates,, Armours, Robes, Dresses, Skimpy, Hats,, Helmets, Magic Hats, Fancy Caps, Bucklers,, Shields
+- Skill Adaptation: Fan, Black Magic, Taoism, Ninjustsu, Beast, Nature
+- Passive: SP Regeneration 5%, Magic Evasion +10%, Fan Booster 10%
 
 | Lv  | Unlocks                         | Description      |
 | --- | ------------------------------- | ---------------- |
@@ -1383,9 +1385,9 @@ A type of monster with the lower body of a snake. They use their giant tails as 
 | ![[Trance.png]]Trance           | 100%   | \|  | ![[Horny.png]]Horny         |    100% |
 | ![[Incontience.png]]Incontience | 100%   | \|  | ![[Seduction.png]]Seduction |    100% |
 
-Proficient with: Gi, Breastplates, Armour, Robes, Skimpy, Hats, Helmets, Fancy Caps, Bucklers, Shields
-Skill Adaptation: Demon Arts, Flail, Snake
-Passive: Stun Strike 5%, Flail Booster 10%
+- Proficient with: Gi, Breastplates, Armour, Robes, Skimpy, Hats, Helmets, Fancy Caps, Bucklers, Shields
+- Skill Adaptation: Demon Arts, Flail, Snake
+- Passive: Stun Strike 5%, Flail Booster 10%
 
 | Lv  | Unlocks                | Description  |
 | --- | ---------------------- | ------------ |
@@ -1438,9 +1440,9 @@ A monster with multiple soft tentacles for a lower body. They can use their ten
 | ![[Trance.png]]Trance           | 100%         | \|  | ![[Horny.png]]Horny         |    100% |
 | ![[Incontience.png]]Incontience | 100%         | \|  | ![[Seduction.png]]Seduction |    100% |
 
-Proficient with: Gi, Breastplates, Robes, Skimpy, Hats, Fancy Caps
-Skill Adaptation: Multiweapon, Tentacle
-Passive: Triple Attack, Whip Booster 10%
+- Proficient with: Gi, Breastplates, Robes, Skimpy, Hats, Fancy Caps
+- Skill Adaptation: Multiweapon, Tentacle
+- Passive: Triple Attack, Whip Booster 10%
 
 | Lv  | Unlocks                  | Description     |
 | --- | ------------------------ | --------------- |
@@ -1492,9 +1494,9 @@ Flying monsters with big wings, they glide around enemy attacks with ease. They 
 | ![[Trance.png]]Trance           | 100%   | \|  | ![[Horny.png]]Horny         |   100% |
 | ![[Incontience.png]]Incontience | 100%   | \|  | ![[Seduction.png]]Seduction |   100% |
 
-Proficient with: Gi, Skimpy, Hats, Fancy Caps
-Skill Adaptation: Fan, Thievery, Dancing, Wing
-Passive: Evasion +30%, Magic Evasion +30%, Fan Booster 10%
+- Proficient with: Gi, Skimpy, Hats, Fancy Caps
+- Skill Adaptation: Fan, Thievery, Dancing, Wing
+- Passive: Evasion +30%, Magic Evasion +30%, Fan Booster 10%
 
 | Lv  | Unlocks                | Description     |
 | --- | ---------------------- | --------------- |
@@ -1549,9 +1551,9 @@ Powerful monsters famed for their strength. Fangs and claws alike wield fantasti
 | ![[Trance.png]]Trance           | *150%*  | \|  | ![[Horny.png]]Horny         |  *150%* |
 | ![[Incontience.png]]Incontience | *150%*  | \|  | ![[Seduction.png]]Seduction |  *150%* |
 
-Proficient with: Fangs, Breastplates, Armour, Heavy Armour, Hats, Helmets, Heavy Helmets, Bucklers, Shields, Heavy Shields.
-Skill Adaptation: Beast, Breath
-Passive: Fang Booster +10%
+- Proficient with: Fangs, Breastplates, Armour, Heavy Armour, Hats, Helmets, Heavy Helmets, Bucklers, Shields, Heavy Shields.
+- Skill Adaptation: Beast, Breath
+- Passive: Fang Booster +10%
 
 | Lv  | Unlocks           | Description   |
 | --- | ----------------- | ------------- |
@@ -1603,9 +1605,9 @@ A general term for reptilian and amphibian monsters who live on land. They typic
 | ![[Trance.png]]Trance           | 100%         | \|  | ![[Horny.png]]Horny         | 100% |
 | ![[Incontience.png]]Incontience | 100%         | \|  | ![[Seduction.png]]Seduction | 100% |
 
-Proficient with: Breastplates, Shells, Robes, Hats, Fancy Caps, Bucklers
-Skill adaptation: Slime, Beast, Tentacle, Breath
-Passive: Metabolism Up
+- Proficient with: Breastplates, Shells, Robes, Hats, Fancy Caps, Bucklers
+- Skill Adaptation: Slime, Beast, Tentacle, Breath
+- Passive: Metabolism Up
 
 | Lv  | Unlocks                 | Description    |
 | --- | ----------------------- | -------------- |
@@ -1659,9 +1661,9 @@ A general term for monster who live in and around the seas and oceans. They use 
 | ![[Trance.png]]Trance           | 100%   | \|  | ![[Horny.png]]Horny         | 100% |
 | ![[Incontience.png]]Incontience | 100%   | \|  | ![[Seduction.png]]Seduction | 100% |
 
-Proficient with: Breastplates, Shells, Robes, Fancy Caps, Bucklers
-Skill Adaptation: Ocean, Tentacles
-Passive: Sea Strength
+- Proficient with: Breastplates, Shells, Robes, Fancy Caps, Bucklers
+- Skill Adaptation: Ocean, Tentacles
+- Passive: Sea Strength
 
 | Lv  | Unlocks                  | Description     |
 | --- | ------------------------ | --------------- |
@@ -1714,9 +1716,9 @@ Taut and firm insect monster. Brandishes limbs and scales to attack and weaken e
 | ![[Trance.png]]Trance           | 100%   | \|  | ![[Horny.png]]Horny         |   100% |
 | ![[Incontience.png]]Incontience | 100%   | \|  | ![[Seduction.png]]Seduction |   100% |
 
-Proficient with: Shells, Hats, Fancy Caps
-Skill Adaptation: Insect
-Passive: Desert Strength, Great Defence
+- Proficient with: Shells, Hats, Fancy Caps
+- Skill Adaptation: Insect
+- Passive: Desert Strength, Great Defence
 
 | Lv  | Unlocks                   | Description   |
 | --- | ------------------------- | ------------- |
@@ -1768,9 +1770,9 @@ Gentle flower monsters with healing power. Using things like ivy and pollen, Alr
 | ![[Trance.png]]Trance           | ==50%== | \|  | ![[Horny.png]]Horny         | ==50%== |
 | ![[Incontience.png]]Incontience | ==50%== | \|  | ![[Seduction.png]]Seduction | ==50%== |
 
-Proficient with: Gi, Breastplates, Robes, Hats, Magic Hats, Fancy Caps, Bucklers
-Skill Adaptation: Whip, White Magic, Plant
-Passive: Medicine Lore I, Whip Booster 10%,, and choose one of the following: (Poison Strike + 5%, Confusion Strike + 5%, Paralysis Strike +5%)
+- Proficient with: Gi, Breastplates, Robes, Hats, Magic Hats, Fancy Caps, Bucklers
+- Skill Adaptation: Whip, White Magic, Plant
+- Passive: Medicine Lore I, Whip Booster 10%,, and choose one of the following: (Poison Strike + 5%, Confusion Strike + 5%, Paralysis Strike +5%)
 
 | Lv  | Unlocks                   | Description  |
 | --- | ------------------------- | ------------ |
@@ -1826,9 +1828,9 @@ Shambling corpse reanimated by unknown means. With no memory or sense of self to
 | ![[Trance.png]]Trance           | ==25%==      | \|  | ![[Horny.png]]Horny         | ==25%== |
 | ![[Incontience.png]]Incontience | ==25%==      | \|  | ![[Seduction.png]]Seduction | ==25%== |
 
-Proficient with: Breastplates, Armour, Heavy Armour, Hats, Helmets, Heavy Helmets
-Skill Adaptation: Clubs, Dancing, Corpse, Breath
-Passive: Poison Strike +5%, Zombie Strike +5%, Zombie Constitution
+- Proficient with: Breastplates, Armour, Heavy Armour, Hats, Helmets, Heavy Helmets
+- Skill Adaptation: Clubs, Dancing, Corpse, Breath
+- Passive: Poison Strike +5%, Zombie Strike +5%, Zombie Constitution
 
 | Lv  | Unlocks                       | Description    |
 | --- | ----------------------------- | -------------- |
@@ -1884,9 +1886,9 @@ Ethereal being made of dark magic and souls. These undead creatures are master o
 | ![[Trance.png]]Trance           | ==25%==      | \|  | ![[Horny.png]]Horny         |      ==25%== |
 | ![[Incontience.png]]Incontience | ==25%==      | \|  | ![[Seduction.png]]Seduction |      ==25%== |
 
-Proficient with: Robes, Magic Hats
-Skill Adaptation: Scythe, Black Magic, Corpse
-Passive: Death Strike 5%, Evasion +20%, Magic Reflect +5%, Scythe Booster 10%
+- Proficient with: Robes, Magic Hats
+- Skill Adaptation: Scythe, Black Magic, Corpse
+- Passive: Death Strike 5%, Evasion +20%, Magic Reflect +5%, Scythe Booster 10%
 
 | Lv  | Unlocks                         | Description   |
 | --- | ------------------------------- | ------------- |
@@ -1940,8 +1942,8 @@ Basic construct with free will. Fights with core implanted within its body. In a
 | ![[Trance.png]]Trance           | **==NULL==** | \|  | ![[Horny.png]]Horny         | **==NULL==** |
 | ![[Incontience.png]]Incontience | **==NULL==** | \|  | ![[Seduction.png]]Seduction | **==NULL==** |
 
-Proficient with: Robes, Dresses, Skimpy, Hats, Fancy Caps Bucklers
-Skill Adaptation: Service, Demon Arts Artificial 
+- Proficient with: Robes, Dresses, Skimpy, Hats, Fancy Caps Bucklers
+- Skill Adaptation: Service, Demon Arts Artificial 
 
 | Lv  | Unlocks                  | Description       |
 | --- | ------------------------ | ----------------- |
@@ -1993,8 +1995,8 @@ The vanguard in the armies of Heaven. Their holy power can be used for both atta
 | ![[Trance.png]]Trance           | *150%*       | \|  | ![[Horny.png]]Horny         |       *150%* |
 | ![[Incontience.png]]Incontience | *150%*       | \|  | ![[Seduction.png]]Seduction |       *150%* |
 
-Proficient with: Armour, Heavy Armour, Robes, Dresses, Skimpy, Hats, Helmets, Heavy Helmets, Magic Hats, Fancy Caps, Bucklers, Shields, Heavy Shields
-Skill Adaptation: Dagger, Sword, Rapier, White Magic, Holy
+- Proficient with: Armour, Heavy Armour, Robes, Dresses, Skimpy, Hats, Helmets, Heavy Helmets, Magic Hats, Fancy Caps, Bucklers, Shields, Heavy Shields
+- Skill Adaptation: Dagger, Sword, Rapier, White Magic, Holy
 
 | Lv  | Unlocks                             | Description  |
 | --- | ----------------------------------- | ------------ |
